@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_title">Bender\'s Billionaire Bonanza</string>
+    <string name="license">Created by Gergely Sajdik</string>
+    <string name="continue_skip">Skip</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="start_game">Start Game</string>
+    <string name="options_page">Options</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="help_page">Help</string>
+    <string name="crew">"When it absolutely positively has to get there eventually.</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="help_text">
+
+        The objective of this game is to find all the treasure for Bender in the least amount of clicks possible. Every
+        single click on a box will reveal either a number or a treasure. If a number is found, it represents how many treasures are left in
+    its row and column total. If a treasure is found, it can be clicked again to reveal the number of treasures in its row and column total. Starting
+        board size and amount of treasure can be set via the Options menu. \n\n
+
+        Resources referenced:\n
+        <a href="https://vignette.wikia.nocookie.net/en.futurama/images/4/4c/FUTURAMA-BACKGROUND-small.jpg/revision/latest?cb=20160812075819">Futurama Background</a>\n
+        <a href="https://gifer.com/en/2vDa">Bender Gif</a>\n
+        <a href="http://logonoid.com/planet-express-logo/">Planet Express Logo</a>\n
+        <a href="https://www.reddit.com/r/futurama/comments/sdi9o/pimp_bender_xpost_from_rwallpapers/">Bender Image</a>\n
+        <a href="https://www.pinterest.com/pin/735494182868937873/">App Icon</a>
+        <a href="http://www.jmkxyy.com/treasure-chest-icon-png.html">Treasure Chest Thumbnail</a>\n
+        <a href="http://www.soundboard.com/sb/powerbabe">All sound effects</a>
+
+        \n\nCMPT 276 homepage can be found <a href="https://www.cs.sfu.ca/CourseCentral/276/bfraser/index.html">here!</a>
+        \nApp was created for educational purposes by Gergely Sajdik.
+        \nNo copyright infringement intended.
+
+    </string>
+    <string name="back">Back</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="six_columns">%1$d rows by 6 columns</string>
+    <string name="ten_columns">%1$d rows by 10 columns</string>
+    <string name="fifteen_columns">%1$d rows by 15 columns</string>
+    <string name="select_board">Select your board size:</string>
+    <string name="select_mines">Select amount of mines:</string>
+    <string name="six_mines">%1$d mines</string>
+    <string name="ten_mines">%1$d mines</string>
+    <string name="fifteen_mines">%1$d mines</string>
+    <string name="twenty_mines">%1$d mines</string>
+    <string name="done">Done</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="bender">bender</string>
+    <string name="game_over">game over</string>
+    <string name="message_win">message win</string>
+
+</resources>
